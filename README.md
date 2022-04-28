@@ -1,11 +1,11 @@
-#Material da primeira aula de Desenvolvimento Web
+# Material da primeira aula de Desenvolvimento Web
 
-** Desenvolvido em Aula **
+**Desenvolvido em Aula 👩‍🏫 **
 
 - [Index 1](index.php)
 - [Index 2](index2.php)
 
 
-** Desafio extra **
+**Desafio extra 🦾 **
 
 - [Accordion](Desafio.php)
